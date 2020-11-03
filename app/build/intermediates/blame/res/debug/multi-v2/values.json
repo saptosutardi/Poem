@@ -1,0 +1,79 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4,5",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "92,151,208",
+                        "endColumns": "57,55,43",
+                        "endOffsets": "145,202,247"
+                    },
+                    "to": {
+                        "startLines": "4,5,6",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "137,195,251",
+                        "endColumns": "57,55,43",
+                        "endOffsets": "190,246,290"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "17,3,2,11,13,21,12,14,20,6,19,4,9,7,22,10,18,15,16,8,5",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "850,99,56,593,678,1048,637,716,989,261,938,153,501,349,1110,549,897,754,796,426,207",
+                        "endColumns": "46,52,41,43,37,61,40,37,58,87,50,52,47,76,46,43,40,41,53,74,53",
+                        "endOffsets": "892,147,93,632,711,1105,673,749,1043,344,984,201,544,421,1152,588,933,791,845,496,256"
+                    },
+                    "to": {
+                        "startLines": "7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "295,342,395,437,481,519,581,622,660,719,807,858,911,959,1036,1083,1127,1168,1210,1264,1339",
+                        "endColumns": "46,52,41,43,37,61,40,37,58,87,50,52,47,76,46,43,40,41,53,74,53",
+                        "endOffsets": "337,390,432,476,514,576,617,655,714,802,853,906,954,1031,1078,1122,1163,1205,1259,1334,1388"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,522",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "481,679"
+                    },
+                    "to": {
+                        "startLines": "28,35",
+                        "startColumns": "4,4",
+                        "startOffsets": "1393,1684",
+                        "endLines": "34,37",
+                        "endColumns": "12,12",
+                        "endOffsets": "1679,1839"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "3,2",
+                        "startColumns": "4,4",
+                        "startOffsets": "98,57",
+                        "endColumns": "41,39",
+                        "endOffsets": "135,92"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,97",
+                        "endColumns": "41,39",
+                        "endOffsets": "92,132"
+                    }
+                }
+            ]
+        }
+    ]
+}

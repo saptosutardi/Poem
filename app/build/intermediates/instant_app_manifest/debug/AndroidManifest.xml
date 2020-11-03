@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.poem"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.01" >
+
+    <uses-sdk
+        android:minSdkVersion="11"
+        android:targetSdkVersion="29" />
+
+    <application
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:description="@string/studio"
+        android:icon="@drawable/ic_logo_4"
+        android:label="@string/app_name"
+        android:logo="@drawable/ic_logo_4"
+        android:testOnly="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.poem.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.example.poem.Page2"
+            android:label="@string/app_name" >
+        </activity>
+    </application>
+
+</manifest>

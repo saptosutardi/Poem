@@ -1,0 +1,178 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_share_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\menu_action_items.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\menu\\action_items.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_search_6.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\icon_search_6.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_edit.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_action_edit.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_green.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_green.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logo_5.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_logo_5.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_recorded_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_recorded_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo_1.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\logo_1.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logo_3.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_green.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\green.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_facebook.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_delete_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\icon_delete_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_row.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\view_row.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_extended.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\extended.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_logo_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_recorded.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_recorded.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_delete.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\delete.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_twitter.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_pink.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_pink.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_new_poem.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\new_poem.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_action_discard.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_action_discard.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_orange.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\orange.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_share_3.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_share_3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_photos_tab.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\icon_photos_tab.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logo_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_icon_search_5.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\icon_search_5.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_logo.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_3.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_3.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_icon4.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\search_icon4.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_logo_4.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-hdpi\\ic_logo_4.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_atom_pay_list_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\atom_pay_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_item.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_view2.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\view2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\layout_view_record.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\layout\\view_record.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_delete_pink2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\ic_delete_pink2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_search_icon_2.png.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\drawable-mdpi\\search_icon_2.png"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\build\\intermediates\\res\\merged\\debug\\menu_main.xml.flat",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\Poem\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

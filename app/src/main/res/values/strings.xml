@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Poem</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="tvSearch">Masukkan akhiran</string>
+    <string name="empty_list">Masukkan kata yang anda cari pada kolom di atas!</string>
+    <string name="not_found">Maaf akhiran yang anda cari tidak ada.</string>
+    <string name="studio"> Aplikasi ini dibuat oleh Sapto Studio.</string>
+    <string name="new_poem">Sajak Baru</string>
+    <string name="recorded">Konsep</string>
+    <string name="clear">Bersihkan</string>
+    <string name="delete">Hapus</string>
+    <string name="copy">Copy</string>
+    <string name="edit">Edit</string>
+    <string name="share">Berbagi</string>
+    <string name="share_via">Berbagi melalui</string>
+    <string name="about">Tentang kami</string>
+    <string name="saved">Simpan</string>
+    <string name="empty_text">Teks kosong</string>
+    <string name="emptied">Form telah dikosongkan</string>
+    <string name="creator">Aplikasi ini dibuat oleh:</string>
+    <string name="poem">Poem v1.0 by:</string>
+</resources>
